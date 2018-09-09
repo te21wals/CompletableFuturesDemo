@@ -1,0 +1,23 @@
+# OS generated files
+.DS_Store
+
+# Build output directies
+build
+.gradle
+
+# IntelliJ specific files/directories
+out
+.idea
+*.ipr
+*.iws
+*.iml
+*.ids
+
+# Merge Files
+*.orig
+*.rej
+
+#VSCode Files
+.classpath
+.project
+.settings/
